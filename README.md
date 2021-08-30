@@ -12,7 +12,7 @@ These algorithms are tested for following stright line or circle. For example, y
 
 ### Paper
 If you use this code in your research, please cite our paper:
-
+```
 @inproceedings{niu2016efficient,
   title={Efficient path following algorithm for unmanned surface vehicle},
   author={Niu, Hanlin and Lu, Yu and Savvaris, Al and Tsourdos, Antonios},
