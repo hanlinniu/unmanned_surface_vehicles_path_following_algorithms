@@ -6,7 +6,7 @@ These algorithms are tested for following stright line or circle. For example, y
 ![](plos_circle.gif)  ![](plos_straight_line.gif)
 
 
-<a href="url"><img src=plos_circle.gif align="left" height="48" width="48" ></a>
+<a href="url"><img src=plos_circle.gif align="left" height="250" width="250" ></a>
 
 
 
