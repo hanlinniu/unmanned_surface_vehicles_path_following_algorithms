@@ -7,6 +7,17 @@ These algorithms are tested for following stright line or circle. For example, y
 <a href="url"><img src=plos_straight_line.gif align="right" height="400" width="450" ></a>
 
 
+### Paper
+If you use this code in your research, please cite our paper:
+```
+@inproceedings{niu2016efficient,
+  title={Efficient path following algorithm for unmanned surface vehicle},
+  author={Niu, Hanlin and Lu, Yu and Savvaris, Al and Tsourdos, Antonios},
+  booktitle={OCEANS 2016-Shanghai},
+  pages={1--7},
+  year={2016},
+  organization={IEEE}
+}
 
 
 
