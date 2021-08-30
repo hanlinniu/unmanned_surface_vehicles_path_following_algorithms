@@ -4,19 +4,8 @@ Four path following algorithms, including Carros Chasing algorithm, Nonlinear Gu
 These algorithms are tested for following stright line or circle. For example, you can run PLOS_straight_line.m or PLOS_circle.m file to make the usv follow the pre-defined path.
 
 
-<img src=plos_circle.gif height="380" width="400" >
-<img src=plos_straight_line.gif  height="380" width="400" >
-
-
-
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
+<img src=plos_circle.gif height="350" width="400" >
+<img src=plos_straight_line.gif  height="350" width="400" >
 
 ### Paper
 If you use this code in your research, please cite our paper:
